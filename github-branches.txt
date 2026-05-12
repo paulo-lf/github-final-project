@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert 36fecaf [origin/bug-fix-revert] revert edit
+  bug-fix-typo   c26eb46 [origin/bug-fix-typo] updated footer
+  main           c26eb46 [origin/main: ahead 1] updated footer
